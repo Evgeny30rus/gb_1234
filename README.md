@@ -1,2 +1,3 @@
 # gb_1234
-## git instruction
+## git and terminal instruction
+
